@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(216, 168, 182);
+      
+}
+
+@font-face {
+    font-family: ;
+    src: url('love larry ttf.ttf');
+}
+
+.principal {
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(212, 99, 131);
+    
+}
+
+h2 {
+    font-family: "Kaushan Script" , sans-serif ;
+    font-size: 2em;
+}
+
+p {
+    text-align: justify;
+}
+
